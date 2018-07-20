@@ -1,0 +1,22 @@
+page-welcome {
+
+    #welcome {
+      background-color: color($colors, primary);
+      h1 {
+        font-size: 50px;
+        font-weight: 300;
+        color: white;
+        margin-top: 40px;
+      }
+      p {
+        color: white;
+        margin-bottom: 50px;
+      }
+      button {
+        background-color: color($colors, dark);
+        width: 100%;
+        margin-bottom: 10px;
+      }
+    }
+
+}
